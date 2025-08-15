@@ -1,3 +1,5 @@
+> **⚠️ This project is archived and no longer maintained.**
+
 ![Dispatch](docs/assets/images/logo-large.png "Dispatch Logo")
 
 Dispatch is a framework for deploying and managing serverless style applications.  The intent is a framework
